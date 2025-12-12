@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="predictions/00095_t1_72.png" alt="UNET Prediction" width="800">
+  <img src="images/paper_extract.png" alt="UNET Prediction" width="600">
 </p>
 
 # Glioma Segmentation with U-Net on BraTS 2021
@@ -19,6 +19,10 @@ The goal of this project is to segment glioma subregions from brain MRI scans us
 - Qualitative visualization of predictions
 
 The implementation uses the MONAI framework on top of PyTorch, following best practices for medical image analysis.
+
+<p align="center">
+  <img src="predictions/00095_t1_72.png" alt="UNET Prediction" width="800">
+</p>
 
 ## Dataset
 
