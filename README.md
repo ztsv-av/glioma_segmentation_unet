@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="predictions/00095_t1_72.png" alt="UNET Prediction" width="600">
+  <img src="predictions/00095_t1_72.png" alt="UNET Prediction" width="800">
 </p>
 
 # Glioma Segmentation with U-Net on BraTS 2021
