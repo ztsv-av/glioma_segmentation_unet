@@ -118,4 +118,39 @@ presentation.pdf
 
 ## Imaging AI Coursework Context
 
-This repository corresponds to Task IV of the Imaging AI course, which focuses on deep learning–based medical image segment
+This repository corresponds to Task IV of the Imaging AI course, which focuses on deep learning–based medical image segmentation.
+
+Earlier course exercises included:
+
+- Sampling and Fourier analysis of images
+- Image enhancement using gamma correction
+- Classical threshold-based segmentation methods
+
+These foundational exercises informed the design and interpretation of the final deep learning pipeline.
+
+## How to Run
+
+High-level workflow:
+
+1. Prepare BraTS 2021 data and update paths in scripts/utils/vars.py
+2. Run preprocessing and data exploration if needed
+3. Train the model using main.py
+4. Evaluate the trained model on the test set
+5. Visualize predictions and metrics
+
+Exact commands and configurations are documented within the code and paper.
+
+## Disclaimer
+
+This repository is intended for educational and research purposes only.
+
+If you are currently enrolled in a similar course, do not submit this work as your own. Use it strictly as a reference for learning.
+
+## Authors
+
+Anton Zaitsev  
+Emmanouil F. Papadimitriou  
+Marie Lontsie
+
+Master of Science in Data Science  
+University of Luxembourg
